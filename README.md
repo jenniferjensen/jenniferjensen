@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on documenting FanDuel's backend wallet systems
-- 🌱 I’m currently learning Kubernetes and Terraform
+- 🔭 I’m currently onboarding to a new position at wayflyer.com
+- 🌱 I’m currently learning Django and the new systems
 - 🧠 Stuff I know now: Javascript, Typescript, Java, Spring Boot, AWS [Lambda/EC2/Polly/Cloudwatch], GraphQL
 - 🐟 Stuff I used to know: 8016 assembly, C, C#, Perl, Docker, Python
 - 💬 Ask me about anything you think I can help with from tech issues to being a woman in tech
